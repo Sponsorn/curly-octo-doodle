@@ -1,0 +1,16 @@
+## Interface: 120000, 120001
+## Title: WarbandCooldownSettings
+## Notes: Pre-configured Advanced Cooldown Settings templates, applied per class.
+## Author: Dede in-game / Sponsorn on curseforge & github
+## Version: 0.2.0
+## SavedVariables: WarbandCooldownSettingsDB
+## DefaultState: enabled
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+
+WarbandCooldownSettings.lua
+Templates.lua
+Options.lua
